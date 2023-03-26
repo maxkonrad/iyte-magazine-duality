@@ -46,7 +46,7 @@
     </Flipbook>
     <p class="credit">
       Made with Love by
-      <a href="https://unsplash.com/" target="_blank">IYTE </a>
+      <a href="https://iyte.edu.tr" target="_blank">IYTE </a>
       Students
     </p>
   </div>
